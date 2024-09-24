@@ -1,0 +1,10 @@
+server: "your.domain.net:8443"
+
+auth: 123456
+
+tls:
+  sni: www.example.com
+  insecure: true
+
+socks5:
+  listen: 127.0.0.1:11080
