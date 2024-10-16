@@ -1,8 +1,8 @@
 listen: :8443
 
 tls:
-  cert: /etc/hysteria/cert.crt
-  key: /etc/hysteria/private.key
+  cert: /etc/hysteria/ca.crt
+  key: /etc/hysteria/ca.key
 
 auth:
   type: password
