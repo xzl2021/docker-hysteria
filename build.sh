@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t hysteria2:latest .
+docker build -t hysteria:latest .
